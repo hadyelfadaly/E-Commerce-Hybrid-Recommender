@@ -1,0 +1,5 @@
+mlxtend
+pandas
+numpy
+scikit-learn
+openpyxl
