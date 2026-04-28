@@ -5,7 +5,7 @@ This project implements a hybrid recommender system for an e-commerce platform, 
 ## Steps to Implement (in progress)
 
 1. Load and clean the dataset (Done by Hady)
-2. Run Apriori/FP-Growth to extract rules
+2. Run Apriori/FP-Growth to extract rules (Done by Hady)
 3. Build TF-IDF vectors for products
 4. For a given user, get candidates from both methods
 5. Score and rank them using the hybrid formula
