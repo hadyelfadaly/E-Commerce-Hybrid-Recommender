@@ -1,5 +1,11 @@
 # E-Commerce Hybrid Recommender System
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![mlxtend](https://img.shields.io/badge/mlxtend-FP--Growth-3a3a3a?style=flat-square)
+
 A hybrid product recommendation engine combining **FP-Growth Association Rule Mining** with **TF-IDF Content-Based Filtering**, built on the Online Retail II dataset (~1M transactions). The system generates personalized recommendations per customer and evaluates them using Precision@5, Recall@5, and F1@5.
 
 ---
@@ -118,12 +124,6 @@ python script.py
 ```
 
 The script prompts for `Customer ID`, `alpha`, and `k` interactively.
-
----
-
-## Stack
-
-`Python` · `pandas` · `mlxtend` · `scikit-learn` · `FP-Growth` · `TF-IDF`
 
 ---
 
