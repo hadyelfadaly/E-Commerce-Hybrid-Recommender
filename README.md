@@ -9,8 +9,8 @@ This project implements a hybrid recommender system for an e-commerce platform, 
 3. Build TF-IDF vectors for products (Done by Yassin)
 4. For a given user, get candidates from both methods (Done by Yassin)
 5. Score and rank them using the hybrid formula (Done by Yassin)
-6. Evaluate with Precision/Recall
-7. Write the report
+6. Evaluate with Precision/Recall (Done by Hady)
+7. Write the report 
 
 ## Dataset
 
@@ -19,7 +19,7 @@ The dataset used in this project is the [Online Retail Dataset](https://archive.
 ## Setup Instructions
 1. Clone the repository:
    ```bash
-   git clone https://github.com/hadyelfadaly/E-Commerce-Hybrid-Recommender
+   git clone https://github.com/hadyelfadaly/E-Commerce-Hybrid-Recommender.git
     ```
 2. Navigate to the Code directory:
    ```bash
